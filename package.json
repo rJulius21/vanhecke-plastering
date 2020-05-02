@@ -1,10 +1,9 @@
 {
-  "name": "travel-site",
+  "name": "vanhecke-plastering",
   "version": "1.0.0",
   "scripts": {
     "dev": "webpack-dev-server",
-    "build": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "dependencies": {
     "axios": "^0.19.0",
