@@ -1,0 +1,10 @@
+.footer {
+
+  &__nav {
+    display: flex;
+  }
+
+  &__nav-link {
+    text-decoration: none;
+  }
+}
